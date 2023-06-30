@@ -15,7 +15,7 @@ git clone git@github.com:jeffoty/dad-jokes.git
 ```
 HTTPS
 ```bash
-git clone 
+git clone https://github.com/jeffoty/dad-jokes.git
 ```
 -cd to directory and open on vscode
 ```bash
