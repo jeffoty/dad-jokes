@@ -11,7 +11,7 @@ and displaying them on a single page html file.
 -on local machine  clone repo:
 SSH
 ```bash
-git clone 
+git clone git@github.com:jeffoty/dad-jokes.git
 ```
 HTTPS
 ```bash
