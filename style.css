@@ -1,0 +1,60 @@
+body, #quote, #author {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #FFFAD7;
+}
+
+.title {
+    margin-top: 10px;
+    font-family: "Courier New";
+    text-align: center;
+    font-size: 75px;
+    margin-left: 25%;
+}
+.jokeBox {
+    display: flex;
+    flex-direction: column;
+    margin: 5% 5% 5% 5%;
+    padding: 50px;
+    width: 80%;
+    border: 2px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 10px #888888;
+    background-color: #F1C27B;
+}
+
+#setup {
+    font-family: "Courier New";
+    text-align: center;
+    font-size: 30px;
+}
+
+#punchline {
+    margin-top: 10px;
+    font-family: "Courier New";
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+h1 {
+   text-align: center;
+}
+
+p {
+    font-size: 20px;
+    padding: 40px;
+    margin: 0% 10% 2% 10%;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.top-bar {
+    display: flex;
+}
